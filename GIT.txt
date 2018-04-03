@@ -1,0 +1,8 @@
+Git hub website
+Tortoise GIT
+GIT for windows
+Tortoise Settings..refre Document
+GIT clone-from GIT to Local m/c
+GIT Commit-vice versa
+Push
+Pull : changed file from github
